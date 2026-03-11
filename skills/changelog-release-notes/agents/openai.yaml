@@ -1,0 +1,4 @@
+interface:
+  display_name: "Changelog Notes"
+  short_description: "Draft changelog entries from repo changes"
+  default_prompt: "Use repository diffs, version files, and existing changelog structure to draft accurate release notes."
