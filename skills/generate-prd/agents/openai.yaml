@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRD 文档生成"
+  short_description: "通过澄清需求与模板填充生成高质量中文 PRD 文档"
+  default_prompt: "Use $generate-prd to ask focused clarification questions and produce a complete Chinese PRD file from the user's product request."
