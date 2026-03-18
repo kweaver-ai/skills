@@ -1,0 +1,4 @@
+interface:
+  display_name: "实现设计文档生成"
+  short_description: "通过PRD澄清需求并按模板生成高质量中文实现设计文档"
+  default_prompt: "Use $generate-implementation-design to ask focused clarification questions from a PRD and generate a complete Chinese implementation design document file."
